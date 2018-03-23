@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Surface View Example</string>
+    <string name="win">WIN!</string>
+</resources>
